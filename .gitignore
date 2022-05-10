@@ -1,1 +1,4 @@
 *.lsp
+*.calva
+*.clj-kondo
+*.cpcache
